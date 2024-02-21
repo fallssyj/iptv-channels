@@ -485,10 +485,6 @@
       "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png"
   },
   {
-      "title": "明珠台",
-      "videoUrl": "http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad"
-  },
-  {
       "title": "J2",
       "videoUrl": "http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032",
       "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png"
