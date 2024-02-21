@@ -442,7 +442,7 @@
   {
       "title": "第一财经",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8",
-      "logo": "ttps://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png"
   },
   {
       "title": "武术世界",
