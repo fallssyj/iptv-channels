@@ -142,7 +142,7 @@
   {
       "title": "甘肃卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/gansu.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png"
   },
   {
       "title": "广东卫视",
@@ -192,7 +192,7 @@
   {
       "title": "吉林卫视",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/jilin.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png"
   },
   {
       "title": "辽宁卫视",
@@ -217,57 +217,57 @@
   {
       "title": "天津卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png"
   },
   {
       "title": "云南卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yunnan.png"
   },
   {
       "title": "新疆卫视",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png"
   },
   {
       "title": "三沙卫视",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/sansha.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png"
   },
   {
       "title": "青海卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png"
   },
   {
       "title": "陕西卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png"
   },
   {
       "title": "山西卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png"
   },
   {
       "title": "西藏卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/xizang.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png"
   },
   {
       "title": "内蒙古卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png"
   },
   {
       "title": "宁夏卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png"
   },
   {
       "title": "兵团卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png"
   },
   {
       "title": "安多卫视",
@@ -277,7 +277,7 @@
   {
       "title": "康巴卫视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/kangba.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png"
   },
   {
       "title": "大湾区卫视",
@@ -292,42 +292,42 @@
   {
       "title": "延边卫视",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png"
   },
   {
       "title": "厦门卫视",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png"
   },
   {
       "title": "CHC高清电影",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png"
   },
   {
       "title": "CHC家庭影院",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png"
   },
   {
       "title": "CHC动作电影",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png"
   },
   {
       "title": "求索纪录",
       "videoUrl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/QSJL.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png"
   },
   {
       "title": "求索科学",
       "videoUrl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/QSKX.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png"
   },
   {
       "title": "求索动物",
       "videoUrl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/QSDW.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png"
   },
   {
       "title": "求索生活",
@@ -357,7 +357,7 @@
   {
       "title": "乐游",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png"
   },
   {
       "title": "纯享4K",
@@ -367,52 +367,52 @@
   {
       "title": "风云剧场",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png"
   },
   {
       "title": "风云音乐",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png"
   },
   {
       "title": "第一剧场",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png"
   },
   {
       "title": "风云足球",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png"
   },
   {
       "title": "兵器科技",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png"
   },
   {
       "title": "怀旧剧场",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png"
   },
   {
       "title": "世界地理",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png"
   },
   {
       "title": "文化精品",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png"
   },
   {
       "title": "央视台球",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png"
   },
   {
       "title": "高尔夫网球",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.pngg"
   },
   {
       "title": "电视指南",
@@ -427,47 +427,47 @@
   {
       "title": "哈哈炫动",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/xuandong.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png"
   },
   {
       "title": "游戏风云",
       "videoUrl": "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png"
   },
   {
       "title": "欢笑剧场",
       "videoUrl": "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png"
   },
   {
       "title": "第一财经",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"
+      "logo": "ttps://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png"
   },
   {
       "title": "武术世界",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png"
   },
   {
       "title": "文物宝库",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png"
   },
   {
       "title": "梨园",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png"
   },
   {
       "title": "天元围棋",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png"
   },
   {
       "title": "弈坛春秋",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png"
   },
   {
       "title": "凤凰中文",
@@ -541,57 +541,57 @@
   {
       "title": "茶频道",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png"
   },
   {
       "title": "快乐垂钓",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png"
   },
   {
       "title": "金鹰纪实",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png"
   },
   {
       "title": "金鹰卡通",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png"
   },
   {
       "title": "湖北综合",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei1.png"
   },
   {
       "title": "湖北影视",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei2.png"
   },
   {
       "title": "湖北教育",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei3.png"
   },
   {
       "title": "湖北生活",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei4.png"
   },
   {
       "title": "湖北公共",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei5.png"
   },
   {
       "title": "湖北经视",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei6.png"
   },
   {
       "title": "湖北垄上",
       "videoUrl": "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/HBLS.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei7.png"
   },
   {
       "title": "浙江钱江都市",
@@ -636,7 +636,7 @@
   {
       "title": "卡酷少儿",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8",
-      "logo": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png"
   },
   {
       "title": "陕西新闻资讯",
