@@ -97,27 +97,7 @@
   {
       "title": "CCTV-8K 超高清",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8",
-      "logo": ""
-  },
-  {
-      "title": "CETV-1 综合教育",
-      "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
-  },
-  {
-      "title": "CETV-2 空中课堂",
-      "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
-  },
-  {
-      "title": "CETV-3 教育服务",
-      "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
-  },
-  {
-      "title": "CETV-4 职业教育",
-      "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png"
   },
   {
       "title": "湖南卫视",
@@ -292,7 +272,7 @@
   {
       "title": "安多卫视",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png"
   },
   {
       "title": "康巴卫视",
@@ -302,12 +282,12 @@
   {
       "title": "大湾区卫视",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nanfang.png"
   },
   {
       "title": "农林卫视",
       "videoUrl": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nonglin.png"
   },
   {
       "title": "延边卫视",
@@ -352,27 +332,27 @@
   {
       "title": "求索生活",
       "videoUrl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png"
   },
   {
       "title": "黑莓电影",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png"
   },
   {
       "title": "黑莓动画",
       "videoUrl": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png"
   },
   {
       "title": "哒啵电竞",
       "videoUrl": "http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbdj.png"
   },
   {
       "title": "哒啵赛事",
       "videoUrl": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbss.png"
   },
   {
       "title": "乐游",
@@ -382,7 +362,7 @@
   {
       "title": "纯享4K",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png"
   },
   {
       "title": "风云剧场",
@@ -437,12 +417,12 @@
   {
       "title": "电视指南",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png"
   },
   {
       "title": "都市剧场",
       "videoUrl": "http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png"
   },
   {
       "title": "哈哈炫动",
@@ -492,17 +472,17 @@
   {
       "title": "凤凰中文",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png"
   },
   {
       "title": "凤凰资讯",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png"
   },
   {
       "title": "凤凰香港",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png"
   },
   {
       "title": "明珠台",
@@ -511,52 +491,52 @@
   {
       "title": "J2",
       "videoUrl": "http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png"
   },
   {
       "title": "CNA",
       "videoUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png"
   },
   {
       "title": "AlJazeera",
       "videoUrl": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png"
   },
   {
       "title": "Arirang TV",
       "videoUrl": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Arirang_TV.png"
   },
   {
       "title": "CGTN",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png"
   },
   {
       "title": "CGTN Documentary",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png"
   },
   {
       "title": "CGTN Français",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png"
   },
   {
       "title": "CGTN Русский",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png"
   },
   {
       "title": "CGTN Español",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png"
   },
   {
       "title": "CGTN العربية",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.pn"
   },
   {
       "title": "茶频道",
@@ -616,42 +596,42 @@
   {
       "title": "浙江钱江都市",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png"
   },
   {
       "title": "浙江经济生活",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png"
   },
   {
       "title": "浙江科教影视",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png"
   },
   {
       "title": "浙江民生休闲",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png"
   },
   {
       "title": "浙江公共新闻",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png"
   },
   {
       "title": "浙江少儿",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png"
   },
   {
       "title": "浙江国际",
       "videoUrl": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png"
   },
   {
       "title": "纪实科教",
       "videoUrl": "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png"
   },
   {
       "title": "卡酷少儿",
@@ -661,331 +641,331 @@
   {
       "title": "陕西新闻资讯",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png"
   },
   {
       "title": "陕西都市青春",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi2.png"
   },
   {
       "title": "陕西生活",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi3.png"
   },
   {
       "title": "陕西影视",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi4.png"
   },
   {
       "title": "陕西公共",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi5.png"
   },
   {
       "title": "陕西体育休闲",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi6.png"
   },
   {
       "title": "陕西西部电影",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi7.png"
   },
   {
       "title": "NewTV军事评论",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png"
   },
   {
       "title": "NewTV军旅剧场",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png"
   },
   {
       "title": "NewTV家庭剧场",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png"
   },
   {
       "title": "NewTV中国功夫",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV07.png"
   },
   {
       "title": "NewTV东北热剧",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV09.png"
   },
   {
       "title": "NewTV惊悚悬疑",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png"
   },
   {
       "title": "NewTV明星大片",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV12.png"
   },
   {
       "title": "NewTV欢乐剧场",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png"
   },
   {
       "title": "NewTV潮妈辣婆",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png"
   },
   {
       "title": "NewTV炫舞未来",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV16.png"
   },
   {
       "title": "NewTV精品体育",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV18.png"
   },
   {
       "title": "NewTV精品大剧",
       "videoUrl": "http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV19.png"
   },
   {
       "title": "NewTV超级电影",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png"
   },
   {
       "title": "NewTV超级综艺",
       "videoUrl": "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png"
   },
   {
       "title": "NewTV超级电视剧",
       "videoUrl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png"
   },
   {
       "title": "咪咕直播4K-1",
       "videoUrl": "http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播4K-2",
       "videoUrl": "http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-1",
       "videoUrl": "http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-2",
       "videoUrl": "http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-3",
       "videoUrl": "http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-4",
       "videoUrl": "http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-5",
       "videoUrl": "http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-6",
       "videoUrl": "http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-7",
       "videoUrl": "http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-8",
       "videoUrl": "http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-9",
       "videoUrl": "http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-10",
       "videoUrl": "http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-11",
       "videoUrl": "http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-12",
       "videoUrl": "http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-13",
       "videoUrl": "http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-14",
       "videoUrl": "http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-15",
       "videoUrl": "http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-16",
       "videoUrl": "http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-17",
       "videoUrl": "http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-18",
       "videoUrl": "http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-19",
       "videoUrl": "http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-20",
       "videoUrl": "http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-21",
       "videoUrl": "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-22",
       "videoUrl": "http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-23",
       "videoUrl": "http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-24",
       "videoUrl": "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-25",
       "videoUrl": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-26",
       "videoUrl": "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-27",
       "videoUrl": "http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-28",
       "videoUrl": "http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-29",
       "videoUrl": "http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-30",
       "videoUrl": "http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-31",
       "videoUrl": "http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-32",
       "videoUrl": "http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-33",
       "videoUrl": "http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-34",
       "videoUrl": "http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-35",
       "videoUrl": "http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-36",
       "videoUrl": "http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-37",
       "videoUrl": "http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-38",
       "videoUrl": "http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-39",
       "videoUrl": "http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-40",
       "videoUrl": "http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-41",
       "videoUrl": "http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   },
   {
       "title": "咪咕直播-42",
       "videoUrl": "http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8",
-      "logo": ""
+      "logo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png"
   }
 ]
