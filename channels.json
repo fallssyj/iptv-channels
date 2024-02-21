@@ -412,7 +412,7 @@
   {
       "title": "高尔夫网球",
       "videoUrl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8",
-      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.pngg"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png"
   },
   {
       "title": "电视指南",
@@ -536,7 +536,7 @@
   {
       "title": "CGTN العربية",
       "videoUrl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
-      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.pn"
+      "logo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png"
   },
   {
       "title": "茶频道",
