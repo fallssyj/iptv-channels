@@ -1,5 +1,5 @@
 
-## 🍿🍿🍿🍿🍿🍿
+## 📺 iptv-channels
 
 - 根据 [https://github.com/Meroser/IPTV](https://github.com/Meroser/IPTV) 转换 - 鸣谢
 
