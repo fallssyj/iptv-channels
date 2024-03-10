@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "tvgname": "CCTV1",
     "tvgid": "A01",
@@ -936,7 +936,7 @@
     "Link": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8"
   },
   {
-    "tvgname": "RT Doc-Русский tvg-logo=",
+    "tvgname": "RT Doc-Русский",
     "tvgid": "RT07",
     "tvglogo": "https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_Doc.png",
     "grouptitle": "国际时事",
