@@ -2,141 +2,149 @@
   {
     "Tvgname": "CCTV1",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV1.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png",
     "Grouptitle": "",
-    "Name2": "CCTV1",
+    "Name2": "CCTV-1 综合",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.51:1480"
   },
   {
     "Tvgname": "CCTV2",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV2.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png",
     "Grouptitle": "",
-    "Name2": "CCTV2",
+    "Name2": "CCTV-2 财经",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.52:1484"
   },
   {
     "Tvgname": "CCTV3",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV3.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png",
     "Grouptitle": "",
-    "Name2": "CCTV3",
+    "Name2": "CCTV-3 综艺",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.53:1488"
   },
   {
     "Tvgname": "CCTV4",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV4.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png",
     "Grouptitle": "",
-    "Name2": "CCTV4",
+    "Name2": "CCTV-4 中文国际",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.183:7980"
   },
   {
     "Tvgname": "CCTV5",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV5.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png",
     "Grouptitle": "",
-    "Name2": "CCTV5",
+    "Name2": "CCTV-5 体育",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.54:1492"
   },
   {
-    "Tvgname": "CCTV5",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV5+.png",
+    "Tvgname": "CCTV5+",
+    "Tvgid": "6",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png",
     "Grouptitle": "",
-    "Name2": "CCTV5",
+    "Name2": "CCTV-5+ 体育赛事",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.122:1764"
   },
   {
     "Tvgname": "CCTV6",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV6.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png",
     "Grouptitle": "",
-    "Name2": "CCTV6",
+    "Name2": "CCTV-6 电影",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.55:1496"
   },
   {
     "Tvgname": "CCTV7",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV7.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png",
     "Grouptitle": "",
-    "Name2": "CCTV7",
+    "Name2": "CCTV-7 国防军事",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.56:1500"
   },
   {
     "Tvgname": "CCTV8",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV8.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png",
     "Grouptitle": "",
-    "Name2": "CCTV8",
+    "Name2": "CCTV-8 电视剧",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.57:1504"
   },
   {
     "Tvgname": "CCTV9",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV9.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png",
     "Grouptitle": "",
-    "Name2": "CCTV9",
+    "Name2": "CCTV-9 纪录",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.58:1508"
   },
   {
     "Tvgname": "CCTV10",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV10.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png",
     "Grouptitle": "",
-    "Name2": "CCTV10",
+    "Name2": "CCTV-10 科教",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.59:1512"
   },
   {
     "Tvgname": "CCTV11",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV11.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png",
     "Grouptitle": "",
-    "Name2": "CCTV11",
+    "Name2": "CCTV-11 戏曲",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.161:7980"
   },
   {
     "Tvgname": "CCTV12",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV12.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png",
     "Grouptitle": "",
-    "Name2": "CCTV12",
+    "Name2": "CCTV-12 社会与法",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.60:1516"
   },
   {
     "Tvgname": "CCTV13",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV13.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png",
     "Grouptitle": "",
-    "Name2": "CCTV13",
+    "Name2": "CCTV-13 新闻",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.162:7980"
   },
   {
     "Tvgname": "CCTV14",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV14.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png",
     "Grouptitle": "",
-    "Name2": "CCTV",
+    "Name2": "CCTV-14 少儿",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.61:1520"
   },
   {
     "Tvgname": "CCTV15",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV15.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png",
     "Grouptitle": "",
-    "Name2": "CCTV15",
+    "Name2": "CCTV-15 音乐",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.163:7980"
+  },
+  {
+    "Tvgname": "CCTV16",
+    "Tvgid": "",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png",
+    "Grouptitle": "",
+    "Name2": "CCTV-16 奥林匹克",
+    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
   {
     "Tvgname": "CCTV17",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV17.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png",
     "Grouptitle": "",
-    "Name2": "CCTV17",
+    "Name2": "CCTV-17 农业农村",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.130:7980"
   },
   {
-    "Tvgname": "CQTV新闻",
+    "Tvgname": "重庆新闻",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqxw.png",
     "Grouptitle": "",
@@ -144,7 +152,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.196.199:7980"
   },
   {
-    "Tvgname": "CQTV影视",
+    "Tvgname": "重庆影视",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqys.png",
     "Grouptitle": "",
@@ -152,7 +160,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.180:7980"
   },
   {
-    "Tvgname": "CQTV社会与法",
+    "Tvgname": "重庆社会与法",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing4.png",
     "Grouptitle": "",
@@ -160,7 +168,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.181:7980"
   },
   {
-    "Tvgname": "CQTV时尚生活",
+    "Tvgname": "重庆时尚生活",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing6.png",
     "Grouptitle": "",
@@ -168,15 +176,15 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.182:7980"
   },
   {
-    "Tvgname": "CQTV娱乐",
-    "Tvgid": "",
+    "Tvgname": "重庆娱乐",
+    "Tvgid": "124",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing5.png",
     "Grouptitle": "",
     "Name2": "CQTV娱乐",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.187:7980"
   },
   {
-    "Tvgname": "CQTV新农村",
+    "Tvgname": "重庆新农村",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqxnc.png",
     "Grouptitle": "",
@@ -184,7 +192,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.186:7980"
   },
   {
-    "Tvgname": "CQTV少儿",
+    "Tvgname": "重庆少儿",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing8.png",
     "Grouptitle": "",
@@ -192,7 +200,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.166:7980"
   },
   {
-    "Tvgname": "CQTV科教",
+    "Tvgname": "重庆科教",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing3.png",
     "Grouptitle": "",
@@ -200,7 +208,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.188:7980"
   },
   {
-    "Tvgname": "CQTV汽摩",
+    "Tvgname": "重庆汽摩",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqqm.png",
     "Grouptitle": "",
@@ -208,7 +216,7 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.169:7980"
   },
   {
-    "Tvgname": "CQTV移动",
+    "Tvgname": "重庆移动",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqyd.png",
     "Grouptitle": "",
@@ -481,7 +489,7 @@
   },
   {
     "Tvgname": "卡酷动画",
-    "Tvgid": "",
+    "Tvgid": "135",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing8.png",
     "Grouptitle": "",
     "Name2": "卡酷动画",
@@ -497,7 +505,7 @@
   },
   {
     "Tvgname": "山东教育卫视",
-    "Tvgid": "",
+    "Tvgid": "221",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png",
     "Grouptitle": "",
     "Name2": "山东教育卫视",
@@ -512,16 +520,16 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.50:1476"
   },
   {
-    "Tvgname": "纪实",
-    "Tvgid": "",
+    "Tvgname": "纪实人文",
+    "Tvgid": "196",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png",
     "Grouptitle": "",
-    "Name2": "纪实",
+    "Name2": "纪实人文",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.121:1760"
   },
   {
     "Tvgname": "CGTN中国国际电视台",
-    "Tvgid": "",
+    "Tvgid": "25",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png",
     "Grouptitle": "",
     "Name2": "CGTN中国国际电视台",
@@ -576,11 +584,11 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.247:7980"
   },
   {
-    "Tvgname": "CHC电影",
+    "Tvgname": "CHC高清电影",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png",
     "Grouptitle": "",
-    "Name2": "CHC电影",
+    "Name2": "CHC高清电影",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.248:7980"
   },
   {
@@ -593,23 +601,23 @@
   },
   {
     "Tvgname": "求索纪录4K",
-    "Tvgid": "",
+    "Tvgid": "149",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png",
     "Grouptitle": "",
     "Name2": "求索纪录4K",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.251:7980"
   },
   {
-    "Tvgname": "CETV1",
-    "Tvgid": "",
+    "Tvgname": "中国教育1台",
+    "Tvgid": "151",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png",
     "Grouptitle": "",
     "Name2": "CETV1",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.196:7980"
   },
   {
-    "Tvgname": "CETV4",
-    "Tvgid": "",
+    "Tvgname": "中国教育4台",
+    "Tvgid": "154",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png",
     "Grouptitle": "",
     "Name2": "CETV4",
@@ -617,7 +625,7 @@
   },
   {
     "Tvgname": "中国交通频道",
-    "Tvgid": "",
+    "Tvgid": "424",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/zgjt.png",
     "Grouptitle": "",
     "Name2": "中国交通频道",
@@ -625,7 +633,7 @@
   },
   {
     "Tvgname": "欢笑剧场4K",
-    "Tvgid": "",
+    "Tvgid": "183",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png",
     "Grouptitle": "",
     "Name2": "欢笑剧场4K",
@@ -664,11 +672,11 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.196.154:7980"
   },
   {
-    "Tvgname": "金色频道",
+    "Tvgname": "金色学堂",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png",
     "Grouptitle": "",
-    "Name2": "金色频道",
+    "Name2": "金色学堂",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.157:7980"
   },
   {
@@ -730,7 +738,7 @@
   {
     "Tvgname": "女性时尚",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVnxss.png",
+    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVnxss.png",
     "Grouptitle": "",
     "Name2": "女性时尚",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.104:7980"
