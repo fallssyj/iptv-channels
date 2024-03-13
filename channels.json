@@ -3,7 +3,7 @@
     "Tvgname": "CCTV1",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-1 综合",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.51:1480"
   },
@@ -11,7 +11,7 @@
     "Tvgname": "CCTV2",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-2 财经",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.52:1484"
   },
@@ -19,7 +19,7 @@
     "Tvgname": "CCTV3",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-3 综艺",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.53:1488"
   },
@@ -27,7 +27,7 @@
     "Tvgname": "CCTV4",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-4 中文国际",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.183:7980"
   },
@@ -35,7 +35,7 @@
     "Tvgname": "CCTV5",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-5 体育",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.54:1492"
   },
@@ -43,7 +43,7 @@
     "Tvgname": "CCTV5+",
     "Tvgid": "6",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-5+ 体育赛事",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.122:1764"
   },
@@ -51,7 +51,7 @@
     "Tvgname": "CCTV6",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-6 电影",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.55:1496"
   },
@@ -59,7 +59,7 @@
     "Tvgname": "CCTV7",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-7 国防军事",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.56:1500"
   },
@@ -67,7 +67,7 @@
     "Tvgname": "CCTV8",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-8 电视剧",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.57:1504"
   },
@@ -75,7 +75,7 @@
     "Tvgname": "CCTV9",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-9 纪录",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.58:1508"
   },
@@ -83,7 +83,7 @@
     "Tvgname": "CCTV10",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-10 科教",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.59:1512"
   },
@@ -91,7 +91,7 @@
     "Tvgname": "CCTV11",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-11 戏曲",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.161:7980"
   },
@@ -99,7 +99,7 @@
     "Tvgname": "CCTV12",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-12 社会与法",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.60:1516"
   },
@@ -107,7 +107,7 @@
     "Tvgname": "CCTV13",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-13 新闻",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.162:7980"
   },
@@ -115,7 +115,7 @@
     "Tvgname": "CCTV14",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-14 少儿",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.61:1520"
   },
@@ -123,7 +123,7 @@
     "Tvgname": "CCTV15",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-15 音乐",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.163:7980"
   },
@@ -131,7 +131,7 @@
     "Tvgname": "CCTV16",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-16 奥林匹克",
     "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
@@ -139,7 +139,7 @@
     "Tvgname": "CCTV17",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png",
-    "Grouptitle": "",
+    "Grouptitle": "央视",
     "Name2": "CCTV-17 农业农村",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.130:7980"
   },
@@ -147,7 +147,7 @@
     "Tvgname": "重庆新闻",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqxw.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV新闻",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.199:7980"
   },
@@ -155,7 +155,7 @@
     "Tvgname": "重庆影视",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqys.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV影视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.180:7980"
   },
@@ -163,7 +163,7 @@
     "Tvgname": "重庆社会与法",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing4.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV社会与法",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.181:7980"
   },
@@ -171,7 +171,7 @@
     "Tvgname": "重庆时尚生活",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing6.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV时尚生活",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.182:7980"
   },
@@ -179,7 +179,7 @@
     "Tvgname": "重庆娱乐",
     "Tvgid": "124",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing5.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV娱乐",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.187:7980"
   },
@@ -187,7 +187,7 @@
     "Tvgname": "重庆新农村",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqxnc.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV新农村",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.186:7980"
   },
@@ -195,7 +195,7 @@
     "Tvgname": "重庆少儿",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing8.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV少儿",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.166:7980"
   },
@@ -203,7 +203,7 @@
     "Tvgname": "重庆科教",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing3.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV科教",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.188:7980"
   },
@@ -211,7 +211,7 @@
     "Tvgname": "重庆汽摩",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqqm.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV汽摩",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.169:7980"
   },
@@ -219,7 +219,7 @@
     "Tvgname": "重庆移动",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqyd.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "CQTV移动",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.170:7980"
   },
@@ -227,7 +227,7 @@
     "Tvgname": "重广融媒",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cgrm.png",
-    "Grouptitle": "",
+    "Grouptitle": "重庆",
     "Name2": "重广融媒",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.218:1146"
   },
@@ -235,7 +235,7 @@
     "Tvgname": "重庆卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "重庆卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.249:1268"
   },
@@ -243,7 +243,7 @@
     "Tvgname": "湖南卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "湖南卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.62:1524"
   },
@@ -251,7 +251,7 @@
     "Tvgname": "浙江卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/zhejiang/Zhejiang.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "浙江卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.63:1528"
   },
@@ -259,7 +259,7 @@
     "Tvgname": "江苏卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "江苏卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.64:1532"
   },
@@ -267,7 +267,7 @@
     "Tvgname": "东方卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "东方卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.73:1568"
   },
@@ -275,7 +275,7 @@
     "Tvgname": "深圳卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/Shenzhen/Shenzhen1.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "深圳卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.71:1560"
   },
@@ -283,7 +283,7 @@
     "Tvgname": "北京卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "北京卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.66:1540"
   },
@@ -291,7 +291,7 @@
     "Tvgname": "山东卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "山东卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.69:1552"
   },
@@ -299,7 +299,7 @@
     "Tvgname": "天津卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/tianjin/Tianjin.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "天津卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.67:1544"
   },
@@ -307,7 +307,7 @@
     "Tvgname": "贵州卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guizhou/2.0/Guizhou.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "贵州卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.185:7980"
   },
@@ -315,7 +315,7 @@
     "Tvgname": "四川卫视",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "四川卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.175:7980"
   },
@@ -323,7 +323,7 @@
     "Tvgname": "云南卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/yunnan/Yunnan.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "云南卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.25:1376"
   },
@@ -331,7 +331,7 @@
     "Tvgname": "广西卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangxi/Guangxi.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "广西卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.38:1428"
   },
@@ -339,7 +339,7 @@
     "Tvgname": "黑龙江卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "黑龙江卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.70:1556"
   },
@@ -347,7 +347,7 @@
     "Tvgname": "安徽卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/anhui/Anhui.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "安徽卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.65:1536"
   },
@@ -355,7 +355,7 @@
     "Tvgname": "山西卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shanxi1/Shanxi_0.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "山西卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.41:1440"
   },
@@ -363,7 +363,7 @@
     "Tvgname": "江西卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/jiangxi/Jiangxi.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "江西卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.190:7980"
   },
@@ -371,7 +371,7 @@
     "Tvgname": "湖北卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "湖北卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.72:1564"
   },
@@ -379,7 +379,7 @@
     "Tvgname": "海南卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "海南卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.176:7980"
   },
@@ -387,7 +387,7 @@
     "Tvgname": "陕西卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shanxi/Shanxi.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "陕西卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.40:1436"
   },
@@ -395,7 +395,7 @@
     "Tvgname": "东南卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/fujian/Fujian.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "东南卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.129:7980"
   },
@@ -403,7 +403,7 @@
     "Tvgname": "吉林卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "吉林卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.39:1432"
   },
@@ -411,7 +411,7 @@
     "Tvgname": "辽宁卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/liaoning/Liaoning.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "辽宁卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.68:1548"
   },
@@ -419,7 +419,7 @@
     "Tvgname": "内蒙古卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/neimenggu/Neimeng.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "内蒙古卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.42:1444"
   },
@@ -427,7 +427,7 @@
     "Tvgname": "广东卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "广东卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.204:1088"
   },
@@ -435,7 +435,7 @@
     "Tvgname": "河南卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/henan/Henan.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "河南卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.26:1380"
   },
@@ -443,7 +443,7 @@
     "Tvgname": "河北卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hebei/Hebei.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "河北卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.184:7980"
   },
@@ -451,7 +451,7 @@
     "Tvgname": "宁夏卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/ningxia/Ningxia.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "宁夏卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.45:1456"
   },
@@ -459,7 +459,7 @@
     "Tvgname": "甘肃卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "甘肃卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.48:1468"
   },
@@ -467,7 +467,7 @@
     "Tvgname": "青海卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/qinghai/Qinghai.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "青海卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.43:1448"
   },
@@ -475,7 +475,7 @@
     "Tvgname": "新疆卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/weishi/Xinjiang.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "新疆卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.47:1464"
   },
@@ -483,7 +483,7 @@
     "Tvgname": "西藏卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/xizang/Xizang.png",
-    "Grouptitle": "",
+    "Grouptitle": "卫视",
     "Name2": "西藏卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.46:1460"
   },
@@ -491,7 +491,7 @@
     "Tvgname": "卡酷动画",
     "Tvgid": "135",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing8.png",
-    "Grouptitle": "",
+    "Grouptitle": "少儿",
     "Name2": "卡酷动画",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.49:1472"
   },
@@ -499,23 +499,15 @@
     "Tvgname": "嘉佳卡通",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong14.png",
-    "Grouptitle": "",
+    "Grouptitle": "少儿",
     "Name2": "嘉佳卡通",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.110:1716"
-  },
-  {
-    "Tvgname": "山东教育卫视",
-    "Tvgid": "221",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png",
-    "Grouptitle": "",
-    "Name2": "山东教育卫视",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.153:7980"
   },
   {
     "Tvgname": "金鹰卡通",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png",
-    "Grouptitle": "",
+    "Grouptitle": "少儿",
     "Name2": "金鹰卡通",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.50:1476"
   },
@@ -523,7 +515,7 @@
     "Tvgname": "纪实人文",
     "Tvgid": "196",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "纪实人文",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.121:1760"
   },
@@ -531,7 +523,7 @@
     "Tvgname": "CGTN中国国际电视台",
     "Tvgid": "25",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CGTN中国国际电视台",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.127:1784"
   },
@@ -539,7 +531,7 @@
     "Tvgname": "快乐垂钓",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan11.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "快乐垂钓",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.191:7980"
   },
@@ -547,7 +539,7 @@
     "Tvgname": "茶频道",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan12.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "茶频道",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.198:7980"
   },
@@ -555,7 +547,7 @@
     "Tvgname": "书画",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shpd.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "书画",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.199:7980"
   },
@@ -563,7 +555,7 @@
     "Tvgname": "梨园",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "梨园",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.163:7980"
   },
@@ -571,7 +563,7 @@
     "Tvgname": "CHC家庭影院",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CHC家庭影院",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.246:7980"
   },
@@ -579,7 +571,7 @@
     "Tvgname": "CHC动作电影",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CHC动作电影",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.247:7980"
   },
@@ -587,7 +579,7 @@
     "Tvgname": "CHC高清电影",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CHC高清电影",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.248:7980"
   },
@@ -595,7 +587,7 @@
     "Tvgname": "精彩影视",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jcys.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "精彩影视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.250:7980"
   },
@@ -603,7 +595,7 @@
     "Tvgname": "求索纪录4K",
     "Tvgid": "149",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "求索纪录4K",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.251:7980"
   },
@@ -611,7 +603,7 @@
     "Tvgname": "中国教育1台",
     "Tvgid": "151",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CETV1",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.196:7980"
   },
@@ -619,7 +611,7 @@
     "Tvgname": "中国教育4台",
     "Tvgid": "154",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "CETV4",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.197:7980"
   },
@@ -627,7 +619,7 @@
     "Tvgname": "中国交通频道",
     "Tvgid": "424",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/zgjt.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "中国交通频道",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.165:7980"
   },
@@ -635,7 +627,7 @@
     "Tvgname": "欢笑剧场4K",
     "Tvgid": "183",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "欢笑剧场4K",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.150:7980"
   },
@@ -643,7 +635,7 @@
     "Tvgname": "都市剧场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "都市剧场",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.151:7980"
   },
@@ -651,7 +643,7 @@
     "Tvgname": "动漫秀场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dmxc.png",
-    "Grouptitle": "",
+    "Grouptitle": "少儿",
     "Name2": "动漫秀场",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.152:7980"
   },
@@ -659,7 +651,7 @@
     "Tvgname": "乐游",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "乐游",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.153:7980"
   },
@@ -667,7 +659,7 @@
     "Tvgname": "法治天地",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "法治天地",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.154:7980"
   },
@@ -675,7 +667,7 @@
     "Tvgname": "金色学堂",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "金色学堂",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.157:7980"
   },
@@ -683,7 +675,7 @@
     "Tvgname": "游戏风云",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "游戏风云",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.159:7980"
   },
@@ -691,7 +683,7 @@
     "Tvgname": "生活时尚",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shss.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "生活时尚",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.160:7980"
   },
@@ -699,7 +691,7 @@
     "Tvgname": "魅力足球",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mlzq.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "魅力足球",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.173:7980"
   },
@@ -707,7 +699,7 @@
     "Tvgname": "天元围棋",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "天元围棋",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.177:7980"
   },
@@ -715,7 +707,7 @@
     "Tvgname": "风云音乐",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "风云音乐",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.108:7980"
   },
@@ -723,7 +715,7 @@
     "Tvgname": "第一剧场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "第一剧场",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.107:7980"
   },
@@ -731,7 +723,7 @@
     "Tvgname": "世界地理",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "世界地理",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.103:7980"
   },
@@ -739,7 +731,7 @@
     "Tvgname": "女性时尚",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVnxss.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "女性时尚",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.104:7980"
   },
@@ -747,7 +739,7 @@
     "Tvgname": "风云剧场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "风云剧场",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.106:7980"
   },
@@ -755,7 +747,7 @@
     "Tvgname": "风云足球",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "风云足球",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.99:7980"
   },
@@ -763,7 +755,7 @@
     "Tvgname": "怀旧剧场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "怀旧剧场",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.105:7980"
   },
@@ -771,7 +763,7 @@
     "Tvgname": "央视台球",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "央视台球",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.102:7980"
   },
@@ -779,7 +771,7 @@
     "Tvgname": "电视指南",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "电视指南",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.97:7980"
   },
@@ -787,7 +779,7 @@
     "Tvgname": "高尔夫网球",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "高尔夫网球",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.100:7980"
   },
@@ -795,7 +787,7 @@
     "Tvgname": "文化精品",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "文化精品",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.109:7980"
   },
@@ -803,7 +795,7 @@
     "Tvgname": "早期教育",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/zqjy.png",
-    "Grouptitle": "",
+    "Grouptitle": "数字付费",
     "Name2": "早期教育",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.112:7980"
   }
