@@ -136,14 +136,6 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.130:7980"
   },
   {
-    "Tvgname": "重庆卫视",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing.png",
-    "Grouptitle": "",
-    "Name2": "重庆卫视",
-    "Link": "http://10.1.1.4:7088/udp/235.254.196.249:1268"
-  },
-  {
     "Tvgname": "CQTV新闻",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/fallssyj/tv-logo@main/img/cqxw.png",
@@ -232,12 +224,20 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.196.218:1146"
   },
   {
-    "Tvgname": "江苏卫视",
+    "Tvgname": "重庆卫视",
     "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu.png",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/chongqing/Chongqing.png",
     "Grouptitle": "",
-    "Name2": "江苏卫视",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.64:1532"
+    "Name2": "重庆卫视",
+    "Link": "http://10.1.1.4:7088/udp/235.254.196.249:1268"
+  },
+  {
+    "Tvgname": "湖南卫视",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan.png",
+    "Grouptitle": "",
+    "Name2": "湖南卫视",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.62:1524"
   },
   {
     "Tvgname": "浙江卫视",
@@ -246,6 +246,14 @@
     "Grouptitle": "",
     "Name2": "浙江卫视",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.63:1528"
+  },
+  {
+    "Tvgname": "江苏卫视",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu.png",
+    "Grouptitle": "",
+    "Name2": "江苏卫视",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.64:1532"
   },
   {
     "Tvgname": "东方卫视",
@@ -408,14 +416,6 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.42:1444"
   },
   {
-    "Tvgname": "湖南卫视",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan.png",
-    "Grouptitle": "",
-    "Name2": "湖南卫视",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.62:1524"
-  },
-  {
     "Tvgname": "广东卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong.png",
@@ -456,30 +456,6 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.48:1468"
   },
   {
-    "Tvgname": "卡酷动画",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing8.png",
-    "Grouptitle": "",
-    "Name2": "卡酷动画",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.49:1472"
-  },
-  {
-    "Tvgname": "金鹰卡通",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png",
-    "Grouptitle": "",
-    "Name2": "金鹰卡通",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.50:1476"
-  },
-  {
-    "Tvgname": "嘉佳卡通",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong14.png",
-    "Grouptitle": "",
-    "Name2": "嘉佳卡通",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.110:1716"
-  },
-  {
     "Tvgname": "青海卫视",
     "Tvgid": "",
     "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/qinghai/Qinghai.png",
@@ -504,6 +480,38 @@
     "Link": "http://10.1.1.4:7088/udp/235.254.198.46:1460"
   },
   {
+    "Tvgname": "卡酷动画",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing8.png",
+    "Grouptitle": "",
+    "Name2": "卡酷动画",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.49:1472"
+  },
+  {
+    "Tvgname": "嘉佳卡通",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong14.png",
+    "Grouptitle": "",
+    "Name2": "嘉佳卡通",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.110:1716"
+  },
+  {
+    "Tvgname": "山东教育卫视",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png",
+    "Grouptitle": "",
+    "Name2": "山东教育卫视",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.153:7980"
+  },
+  {
+    "Tvgname": "金鹰卡通",
+    "Tvgid": "",
+    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png",
+    "Grouptitle": "",
+    "Name2": "金鹰卡通",
+    "Link": "http://10.1.1.4:7088/udp/235.254.198.50:1476"
+  },
+  {
     "Tvgname": "纪实",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png",
@@ -518,14 +526,6 @@
     "Grouptitle": "",
     "Name2": "CGTN中国国际电视台",
     "Link": "http://10.1.1.4:7088/udp/235.254.198.127:1784"
-  },
-  {
-    "Tvgname": "山东教育卫视",
-    "Tvgid": "",
-    "Tvglogo": "https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png",
-    "Grouptitle": "",
-    "Name2": "山东教育卫视",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.153:7980"
   },
   {
     "Tvgname": "快乐垂钓",
