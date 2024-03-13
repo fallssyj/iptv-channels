@@ -806,13 +806,5 @@
     "Grouptitle": "",
     "Name2": "早期教育",
     "Link": "http://10.1.1.4:7088/udp/235.254.196.112:7980"
-  },
-  {
-    "Tvgname": "财富天下",
-    "Tvgid": "",
-    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cftx.png",
-    "Grouptitle": "",
-    "Name2": "财富天下",
-    "Link": "http://10.1.1.4:7088/udp/235.254.198.108:1708"
   }
 ]
