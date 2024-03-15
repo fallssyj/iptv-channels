@@ -176,22 +176,6 @@
     "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
   {
-    "Tvgname": "湖南卫视",
-    "Tvgid": "",
-    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png",
-    "Grouptitle": "",
-    "Name2": "湖南卫视",
-    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
-  },
-  {
-    "Tvgname": "安徽卫视",
-    "Tvgid": "",
-    "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png",
-    "Grouptitle": "",
-    "Name2": "安徽卫视",
-    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
-  },
-  {
     "Tvgname": "欢笑剧场",
     "Tvgid": "",
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png",
