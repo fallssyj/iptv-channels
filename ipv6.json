@@ -93,7 +93,7 @@
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png",
     "Grouptitle": "",
     "Name2": "CCTV-11 戏曲",
-    "Link": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8"
+    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
   {
     "Tvgname": "CCTV12",
@@ -109,7 +109,7 @@
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png",
     "Grouptitle": "",
     "Name2": "CCTV-13 新闻",
-    "Link": "http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8"
+    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
   {
     "Tvgname": "CCTV14",
@@ -125,7 +125,7 @@
     "Tvglogo": "https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png",
     "Grouptitle": "",
     "Name2": "CCTV-15 音乐",
-    "Link": "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8"
+    "Link": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
   },
   {
     "Tvgname": "CCTV16",
