@@ -1,7 +1,7 @@
 
 ## 📺 iptv-channels
 
-- [Meroser/IPTV](https://github.com/Meroser/IPTV) - 鸣谢
+
 
 ## CDN 加速链接
 
